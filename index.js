@@ -16,3 +16,4 @@ setInterval(function(){ fetch("http://result.mh-ssc.ac.in/Home/ViewResult", requ
   .catch(error => console.log('error', error));}, 2000);
 
 }
+anyfun();
