@@ -1,4 +1,4 @@
-# ssc-result-hack
+# ssc-result2021-hack
 
 ![image](https://user-images.githubusercontent.com/34675613/125987879-3e3b983e-85a6-4196-8b42-b3e149f2e615.png)
 
